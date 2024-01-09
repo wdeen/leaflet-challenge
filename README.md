@@ -7,7 +7,7 @@ Module 15 Challenge (D3.js / Leaflet.js) - Wassim Deen
 
 
 # My GitHub Page
-View the Deployed Leaflet Map Here: https://wdeen.github.io/
+View the Deployed Leaflet Map Here: https://wdeen.github.io/leaflet-challenge/Leaflet-Part-2/
 
 # Scenario Description
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
@@ -25,7 +25,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
         - Create a legend that will provide context for the map data.
 
 - Part 2: Gather and Plot More Data  (`\leaflet-challenge\Leaflet-Part-2`)
-    -Plot a second dataset on the map to illustrate the relationship between tectonic plates and seismic activity. This dataset needs to be pulled and visualised alongside the original data.
+    - Plot a second dataset on the map to illustrate the relationship between tectonic plates and seismic activity. This dataset needs to be pulled and visualised alongside the original data.
         - Dataset on Tectonic Plates: `https://github.com/fraxen/tectonicplates`
     - Plot the tectonic plates dataset on the map in addition to the earthquakes.
     - Add other base maps to choose from.
